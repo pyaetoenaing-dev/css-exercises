@@ -1,0 +1,16 @@
+.btn{
+    font-size: 30px;
+    border-color: gray;
+    border-width: 3px;
+}
+
+.btn.btn1{
+    background-color: #000;
+    color: #fff;
+}
+
+
+.btn.btn2{
+    background-color: #ffff00;
+    color: #000;
+}
